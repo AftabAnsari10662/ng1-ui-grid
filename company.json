@@ -1,18 +1,22 @@
 [
     {
         "id": "1",
-        "name": "Itron Bangalore"
+        "name": "Itron Bangalore",
+        "display": "Itron Bangalore"
     },
     {
         "id": "1",
-        "name": "Itron Delhi"
+        "name": "Itron Delhi",
+        "display": "Itron Delhi"
     },
     {
         "id": "1",
-        "name": "Itron Hyderabad"
+        "name": "Itron Hyderabad",
+        "display": "Itron Hyderabad"
     },
     {
         "id": "1",
-        "name": "Itron Gurgaon"
+        "name": "Itron Gurgaon",
+        "display": "Itron Gurgaon"
     }
 ]

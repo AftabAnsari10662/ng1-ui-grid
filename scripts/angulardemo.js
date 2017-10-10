@@ -91,7 +91,7 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
                     name: "CompanyName",
                     displayName: "Company Name",
                     field: "CompanyName",
-                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><select style="height:30px" ng-options="color.id as color.name for color in row.entity.colors" ng-model="MODEL_COL_FIELD"></select></div>',
+                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><select style="height:30px" ng-options="color.display as color.name for color in row.entity.colors" ng-model="MODEL_COL_FIELD"></select></div>',
                     width: 200
                 },
                 {
