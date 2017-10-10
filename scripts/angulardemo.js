@@ -20,7 +20,7 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
         var index = $scope.gridOptions.data.indexOf(row);
         //Use that to set the editrow attrbute value for seleted rows
         $scope.gridOptions.data[index].editrow = !$scope.gridOptions.data[index].editrow;
-        $scope.gridOptions.data[index].colors =  $scope.companies;
+        $scope.gridOptions.data[index].colors = $scope.companies;
     };
 
     //Method to cancel the edit mode in UIGrid
@@ -78,6 +78,7 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
     //Get function to populate the UI-Grid
     $scope.GetCustomer = function () {
         $scope.gridOptions = {
+            enableFiltering: true,
             //Declaring column and its related properties
             columnDefs: [
                 {
