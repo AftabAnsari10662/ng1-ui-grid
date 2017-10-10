@@ -5,6 +5,14 @@ var app = angular.module('app', ['ui.grid', 'ui.bootstrap']);
 //Controller function to load the data
 app.controller('MainCtrl', function ($scope, $http, CustomerService) {
 
+    $scope.colors = [
+        { name: 'black', shade: 'dark' },
+        { name: 'white', shade: 'light', notAnOption: true },
+        { name: 'red', shade: 'dark' },
+        { name: 'blue', shade: 'dark', notAnOption: true },
+        { name: 'yellow', shade: 'light', notAnOption: false }
+    ];
+
     //function to be called on row edit button click
     //Passing the selected row object as parameter, we use this row object to identify  the edited row
     $scope.edit = function (row) {
@@ -12,6 +20,7 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
         var index = $scope.gridOptions.data.indexOf(row);
         //Use that to set the editrow attrbute value for seleted rows
         $scope.gridOptions.data[index].editrow = !$scope.gridOptions.data[index].editrow;
+        $scope.gridOptions.data[index].colors =  $scope.companies;
     };
 
     //Method to cancel the edit mode in UIGrid
@@ -36,7 +45,7 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
         contactName: '',
         contactTitle: ''
     };
-  
+
     //Function to save the data
     //Here we pass the row object as parmater, we use this row object to identify  the edited row
     $scope.saveRow = function (row) {
@@ -71,29 +80,35 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
         $scope.gridOptions = {
             //Declaring column and its related properties
             columnDefs: [
-                  {
-                      name: "CustomerID", displayName: "Customer ID", field: "CustomerID",
-                      cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>', width: 80
-                  },
-                  {
-                      name: "CompanyName", displayName: "Company Name", field: "CompanyName",
-                      cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>', width: 200
-                  },
-                  {
-                      name: "ContactName", displayName: "Contact Name", field: "ContactName",
-                      cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>', width: 140
-                  },
-                  {
-                      name: "ContactTitle", displayName: "Contact Title", field: "ContactTitle",
-                      cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>', width: 140
-                  },
-                  {
-                      name: 'Actions', field: 'edit', enableFiltering: false, enableSorting: false,
-                      cellTemplate: '<div><button ng-show="!row.entity.editrow" class="btn primary" ng-click="grid.appScope.edit(row.entity)"><i class="fa fa-edit"></i></button>' +  //Edit Button
-                                     '<button ng-show="row.entity.editrow" class="btn primary" ng-click="grid.appScope.saveRow(row.entity)"><i class="fa fa-floppy-o"></i></button>' +//Save Button
-                                     '<button ng-show="row.entity.editrow" class="btn primary" ng-click="grid.appScope.cancelEdit(row.entity)"><i class="fa fa-times"></i></button>' + //Cancel Button
-                                     '</div>', width: 100
-                  }
+                {
+                    name: "CustomerID",
+                    displayName: "Customer ID",
+                    field: "CustomerID",
+                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>',
+                    width: 80
+                },
+                {
+                    name: "CompanyName",
+                    displayName: "Company Name",
+                    field: "CompanyName",
+                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><select style="height:30px" ng-options="color.id as color.name for color in row.entity.colors" ng-model="MODEL_COL_FIELD"></select></div>',
+                    width: 200
+                },
+                {
+                    name: "ContactName", displayName: "Contact Name", field: "ContactName",
+                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>', width: 140
+                },
+                {
+                    name: "ContactTitle", displayName: "Contact Title", field: "ContactTitle",
+                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>', width: 140
+                },
+                {
+                    name: 'Actions', field: 'edit', enableFiltering: false, enableSorting: false,
+                    cellTemplate: '<div><button ng-show="!row.entity.editrow" class="btn primary" ng-click="grid.appScope.edit(row.entity)"><i class="fa fa-edit"></i></button>' +  //Edit Button
+                    '<button ng-show="row.entity.editrow" class="btn primary" ng-click="grid.appScope.saveRow(row.entity)"><i class="fa fa-floppy-o"></i></button>' +//Save Button
+                    '<button ng-show="row.entity.editrow" class="btn primary" ng-click="grid.appScope.cancelEdit(row.entity)"><i class="fa fa-times"></i></button>' + //Cancel Button
+                    '</div>', width: 100
+                }
             ],
             onRegisterApi: function (gridApi) {
                 $scope.gridApi = gridApi;
@@ -105,6 +120,13 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
         }, function (d) {
             alert(d.data);
         });
+
+        CustomerService.GetCompany().then(function (d) {
+            $scope.companies = d.data;
+        }, function (d) {
+            alert(d.data);
+        });
+
     };
     //Call  function to load the data
     $scope.GetCustomer();
@@ -118,6 +140,14 @@ app.factory('CustomerService', function ($http) {
             method: 'GET',
             dataType: 'application/json',
             url: 'customer.json'
+        });
+    }
+
+    res.GetCompany = function () {
+        return $http({
+            method: 'GET',
+            dataType: 'application/json',
+            url: 'company.json'
         });
     }
 
