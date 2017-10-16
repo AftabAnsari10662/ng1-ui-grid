@@ -1,56 +1,56 @@
 [
     {
         "CustomerID":"123",
-        "CompanyName":"Itron Bangalore",
-        "ContactName":"Aftab",
+        "workflowDefinitionName":"Itron Bangalore",
+        "exceptionDefinitionName":"Aftab",
         "ContactTitle":"Ansari"
     },
     {
         "CustomerID":"123",
-        "CompanyName":"Itron Bangalore",
-        "ContactName":"Niranjan",
+        "workflowDefinitionName":"Itron Bangalore",
+        "exceptionDefinitionName":"Niranjan",
         "ContactTitle":"Moorthy"
     },
     {
         "CustomerID":"123",
-        "CompanyName":"Itron Bangalore",
-        "ContactName":"Kiran",
+        "workflowDefinitionName":"Itron Bangalore",
+        "exceptionDefinitionName":"Kiran",
         "ContactTitle":"Prabhakar"
     },
     {
         "CustomerID":"123",
-        "CompanyName":"Itron Bangalore",
-        "ContactName":"Charan",
+        "workflowDefinitionName":"Itron Bangalore",
+        "exceptionDefinitionName":"Charan",
         "ContactTitle":"Veera"
     },
     {
         "CustomerID":"123",
-        "CompanyName":"Itron Bangalore",
-        "ContactName":"Arun",
+        "workflowDefinitionName":"Itron Bangalore",
+        "exceptionDefinitionName":"Arun",
         "ContactTitle":"Plainsamy"
     },
     {
         "CustomerID":"123",
-        "CompanyName":"Itron Bangalore",
-        "ContactName":"Shanti",
+        "workflowDefinitionName":"Itron Bangalore",
+        "exceptionDefinitionName":"Shanti",
         "ContactTitle":"Nanda"
     },
     {
         "CustomerID":"123",
-        "CompanyName":"Itron Bangalore",
-        "ContactName":"Bala",
+        "workflowDefinitionName":"Itron Bangalore",
+        "exceptionDefinitionName":"Bala",
         "ContactTitle":"Krishna"
     },
     {
         "CustomerID":"123",
-        "CompanyName":"Itron Bangalore",
-        "ContactName":"Anupam",
+        "workflowDefinitionName":"Itron Bangalore",
+        "exceptionDefinitionName":"Anupam",
         "ContactTitle":"Chaturvedi"
     },
     {
         "CustomerID":"123",
-        "CompanyName":"Itron Bangalore",
-        "ContactName":"Pushkar",
+        "workflowDefinitionName":"Itron Bangalore",
+        "exceptionDefinitionName":"Pushkar",
         "ContactTitle":"Jain"
     }
 ]

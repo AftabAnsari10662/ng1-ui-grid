@@ -2,16 +2,10 @@
 //Adding ui grid module as a depedency in app
 var app = angular.module('app', ['ui.grid', 'ui.bootstrap']);
 
+// var app = angular.module('app', ['ui.grid']);
+
 //Controller function to load the data
 app.controller('MainCtrl', function ($scope, $http, CustomerService) {
-
-    $scope.colors = [
-        { name: 'black', shade: 'dark' },
-        { name: 'white', shade: 'light', notAnOption: true },
-        { name: 'red', shade: 'dark' },
-        { name: 'blue', shade: 'dark', notAnOption: true },
-        { name: 'yellow', shade: 'light', notAnOption: false }
-    ];
 
     //function to be called on row edit button click
     //Passing the selected row object as parameter, we use this row object to identify  the edited row
@@ -20,7 +14,7 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
         var index = $scope.gridOptions.data.indexOf(row);
         //Use that to set the editrow attrbute value for seleted rows
         $scope.gridOptions.data[index].editrow = !$scope.gridOptions.data[index].editrow;
-        $scope.gridOptions.data[index].colors = $scope.companies;
+        $scope.gridOptions.data[index].workflows = $scope.workflows;
     };
 
     //Method to cancel the edit mode in UIGrid
@@ -76,35 +70,31 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
         });
     };
     //Get function to populate the UI-Grid
-    $scope.GetCustomer = function () {
+    $scope.GetWorkflowAssignment = function () {
         $scope.gridOptions = {
-            enableFiltering: true,
+            // enableFiltering: true,
+            // paginationPageSizes: [10, 20, 30],
+            // paginationPageSize: 10,
             //Declaring column and its related properties
             columnDefs: [
                 {
-                    name: "CustomerID",
-                    displayName: "Customer ID",
-                    field: "CustomerID",
-                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>',
-                    width: 80
+                    name: "exceptionDefinitionName",
+                    displayName: "Exception Definition ",
+                    field: "exceptionDefinitionName",
+                    width: 250
                 },
                 {
-                    name: "CompanyName",
-                    displayName: "Company Name",
-                    field: "CompanyName",
-                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><select style="height:30px" ng-options="color.display as color.name for color in row.entity.colors" ng-model="MODEL_COL_FIELD"></select></div>',
+                    name: "workflowDefinitionName",
+                    displayName: "Workflow Definition",
+                    field: "workflowDefinitionName",
+                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><select style="height:30px" ng-options="workflow.name as workflow.name for workflow in row.entity.workflows" ng-model="MODEL_COL_FIELD"></select></div>',
                     width: 200
                 },
                 {
-                    name: "ContactName", displayName: "Contact Name", field: "ContactName",
-                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>', width: 140
-                },
-                {
-                    name: "ContactTitle", displayName: "Contact Title", field: "ContactTitle",
-                    cellTemplate: '<div  ng-if="!row.entity.editrow">{{COL_FIELD}}</div><div ng-if="row.entity.editrow"><input type="text" style="height:30px" ng-model="MODEL_COL_FIELD"</div>', width: 140
-                },
-                {
-                    name: 'Actions', field: 'edit', enableFiltering: false, enableSorting: false,
+                    name: 'Actions',
+                    field: 'edit',
+                    enableFiltering: false,
+                    enableSorting: false,
                     cellTemplate: '<div><button ng-show="!row.entity.editrow" class="btn primary" ng-click="grid.appScope.edit(row.entity)"><i class="fa fa-edit"></i></button>' +  //Edit Button
                     '<button ng-show="row.entity.editrow" class="btn primary" ng-click="grid.appScope.saveRow(row.entity)"><i class="fa fa-floppy-o"></i></button>' +//Save Button
                     '<button ng-show="row.entity.editrow" class="btn primary" ng-click="grid.appScope.cancelEdit(row.entity)"><i class="fa fa-times"></i></button>' + //Cancel Button
@@ -116,39 +106,39 @@ app.controller('MainCtrl', function ($scope, $http, CustomerService) {
             }
         };
         //Function load the data from database
-        CustomerService.GetCustomer().then(function (d) {
+        CustomerService.GetWorkflowAssignment().then(function (d) {
             $scope.gridOptions.data = d.data;
         }, function (d) {
             alert(d.data);
         });
 
-        CustomerService.GetCompany().then(function (d) {
-            $scope.companies = d.data;
+        CustomerService.GetWorkflow().then(function (d) {
+            $scope.workflows = d.data;
         }, function (d) {
             alert(d.data);
         });
 
     };
     //Call  function to load the data
-    $scope.GetCustomer();
+    $scope.GetWorkflowAssignment();
 });
 
 //Factory
 app.factory('CustomerService', function ($http) {
     var res = {};
-    res.GetCustomer = function () {
+    res.GetWorkflowAssignment = function () {
         return $http({
             method: 'GET',
             dataType: 'application/json',
-            url: 'customer.json'
+            url: 'wfassign.json'
         });
     }
 
-    res.GetCompany = function () {
+    res.GetWorkflow = function () {
         return $http({
             method: 'GET',
             dataType: 'application/json',
-            url: 'company.json'
+            url: 'workflow.json'
         });
     }
 

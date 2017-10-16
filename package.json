@@ -1,14 +1,33 @@
 {
   "name": "ng-ui-grid",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aftab Ansari",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
-  }
+  },
+  "dependencies": {
+    "@angular/core": "^4.4.5",
+    "@angular/platform-browser": "^4.4.5",
+    "@angular/platform-browser-dynamic": "^4.4.5",
+    "angular": "^1.6.6",
+    "angular-ui-bootstrap": "^2.5.6",
+    "angular-ui-grid": "^4.0.7",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "reflect-metadata": "^0.1.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AftabAnsari10662/ng1-ui-grid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AftabAnsari10662/ng1-ui-grid/issues"
+  },
+  "homepage": "https://github.com/AftabAnsari10662/ng1-ui-grid#readme",
+  "description": ""
 }

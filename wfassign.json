@@ -1,0 +1,3490 @@
+[
+    {
+        "$id": "1",
+        "exceptionDefinitionKey": "5336412c-91d1-454e-9e23-0cf1f98c6c91",
+        "exceptionDefinitionName": "IDC_Test_2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "2",
+        "exceptionDefinitionKey": "4994086c-21af-4346-b025-7cadec24d837",
+        "exceptionDefinitionName": "IDC_Test_1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "3",
+        "exceptionDefinitionKey": "4169c02c-4453-4658-b529-7fac4cf147a8",
+        "exceptionDefinitionName": "Oct 11 3rd",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "4",
+        "exceptionDefinitionKey": "31122190-0a2d-41ca-aa42-ede0f4f33cfd",
+        "exceptionDefinitionName": "Oct 11 2nd",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "5",
+        "exceptionDefinitionKey": "e930d909-64b6-415d-a6b9-98097a5664cb",
+        "exceptionDefinitionName": "Oct 11",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "6",
+        "exceptionDefinitionKey": "c62120b0-0a15-45dd-80fa-a131722c1bbd",
+        "exceptionDefinitionName": "new",
+        "workflowDefinitionId": "3c6c7005-be77-4edf-b303-55e06613f72f",
+        "workflowDefinitionName": "AutoStepsRK10_3_2017 11_33_55 AM",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "7",
+        "exceptionDefinitionKey": "1003eebf-3daa-4c7a-b24c-aa3e88268f71",
+        "exceptionDefinitionName": "14_Sep_fatal_error",
+        "workflowDefinitionId": "d371ecec-3770-47c1-bae2-0e9712071e6b",
+        "workflowDefinitionName": "TESTAUTO",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "8",
+        "exceptionDefinitionKey": "55165166-f4d1-41f1-9496-c6f8c9eb7fdc",
+        "exceptionDefinitionName": "Test21SepCache",
+        "workflowDefinitionId": "4b329a74-f5ce-42b2-93ab-1a6eb4676b34",
+        "workflowDefinitionName": "MANUALWF",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "9",
+        "exceptionDefinitionKey": "4480b4c7-37c4-4720-ba8d-4131f65ea5e0",
+        "exceptionDefinitionName": "Test_Shib",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "General Back Office Investigation",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "10",
+        "exceptionDefinitionKey": "b043506b-1af6-4a44-b551-3dda937bfb4c",
+        "exceptionDefinitionName": "test disable exception type",
+        "workflowDefinitionId": "ada765cb-20b7-4505-83ec-43b1107eb441",
+        "workflowDefinitionName": "AUTONEW",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "11",
+        "exceptionDefinitionKey": "42901488-bde2-4a03-8a63-6819cf8eb371",
+        "exceptionDefinitionName": "TESTCACHEONCEAGAIN",
+        "workflowDefinitionId": "c81c44c2-df84-4836-a8d4-6a211814d593",
+        "workflowDefinitionName": "TESTPWDWOMS",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "12",
+        "exceptionDefinitionKey": "3b423089-6b5f-4c8e-8375-b3cc54a042e9",
+        "exceptionDefinitionName": "TESTDUKECACHEISSUE",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "13",
+        "exceptionDefinitionKey": "e4cb4ed4-1740-4a7e-ad19-1fdaf568a48a",
+        "exceptionDefinitionName": "TESTCACHEDEF",
+        "workflowDefinitionId": "c81c44c2-df84-4836-a8d4-6a211814d593",
+        "workflowDefinitionName": "TESTPWDWOMS",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "14",
+        "exceptionDefinitionKey": "39164a17-91c6-4173-a4fb-2cdb98579122",
+        "exceptionDefinitionName": "sept 9",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "General Back Office Investigation",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "15",
+        "exceptionDefinitionKey": "174115ab-7675-422f-a1a7-da540c9b790c",
+        "exceptionDefinitionName": "TestEnable",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "16",
+        "exceptionDefinitionKey": "5ce2d9d1-14d6-407d-9a95-880f8c9fca0b",
+        "exceptionDefinitionName": "Test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "17",
+        "exceptionDefinitionKey": "286b25d2-8212-49ae-9287-848800abb1b9",
+        "exceptionDefinitionName": "Nav_Clear_Exception_TriggerParameter",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "General Back Office Investigation",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "18",
+        "exceptionDefinitionKey": "b694cc0f-9f30-4e12-b214-720a0d694b33",
+        "exceptionDefinitionName": "Exception Reliability",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "19",
+        "exceptionDefinitionKey": "64579224-06f2-427d-bfa4-d9c0bd7044fa",
+        "exceptionDefinitionName": "JeffStocks_Test_Manual _Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "20",
+        "exceptionDefinitionKey": "d4b51f9a-04bf-4a42-bf16-3132a2b18bf6",
+        "exceptionDefinitionName": "testing fatal error",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "21",
+        "exceptionDefinitionKey": "7acfff6c-6654-41b1-9c32-f3d314cd76d7",
+        "exceptionDefinitionName": "NEW EXCEPTION",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "22",
+        "exceptionDefinitionKey": "e11cee1e-b25f-49cc-8f6f-a643d5469d16",
+        "exceptionDefinitionName": "(ScaleTest)3-Day Low Endpoint Reliability_636408927021358154",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "23",
+        "exceptionDefinitionKey": "bde99f47-daee-416c-affd-dc8468e4697e",
+        "exceptionDefinitionName": "Last fatal error exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "24",
+        "exceptionDefinitionKey": "0ad5e08c-b621-49d5-8c5f-e0a9862b3378",
+        "exceptionDefinitionName": "Final fatal error",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "25",
+        "exceptionDefinitionKey": "35f8f177-1097-4238-ab2a-d7a673b1ffec",
+        "exceptionDefinitionName": "Fatal error",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "26",
+        "exceptionDefinitionKey": "a5a1fd50-28f3-42d5-9ce8-89f3eafe7024",
+        "exceptionDefinitionName": "test_1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "27",
+        "exceptionDefinitionKey": "2a8dc0ec-ccfe-406d-a028-7a574b142df7",
+        "exceptionDefinitionName": "Exception for testing trigger parameters",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "28",
+        "exceptionDefinitionKey": "3867fa2d-b082-4911-be8c-61fd51ae123b",
+        "exceptionDefinitionName": "new automated exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "29",
+        "exceptionDefinitionKey": "23dca3d8-b5d9-4b29-b51e-8aa79683d89b",
+        "exceptionDefinitionName": "fatal_error_with_reliability",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "30",
+        "exceptionDefinitionKey": "ab1adb8b-dbb4-45c9-9609-657b80951484",
+        "exceptionDefinitionName": "ex_trigger_test_nav",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "31",
+        "exceptionDefinitionKey": "6013340a-cec4-464a-ab57-6997f0c36260",
+        "exceptionDefinitionName": "Sep_11_fatal_error",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "32",
+        "exceptionDefinitionKey": "929d40a2-a656-4ecb-9a61-f88f47a9b95f",
+        "exceptionDefinitionName": "new_exception_2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "33",
+        "exceptionDefinitionKey": "7b0e0e80-d30b-4a7d-8048-618df8e05ae5",
+        "exceptionDefinitionName": "new_exception_1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "34",
+        "exceptionDefinitionKey": "0bb4810e-233a-4dc3-933b-de78035a88fa",
+        "exceptionDefinitionName": "Test1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "35",
+        "exceptionDefinitionKey": "5aa147c0-f5e7-4e15-acec-f29c18fd1655",
+        "exceptionDefinitionName": "1 Day Missing Read",
+        "workflowDefinitionId": "2b03df16-9649-4a4f-94f9-ef031cd68f37",
+        "workflowDefinitionName": "Testing201",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "36",
+        "exceptionDefinitionKey": "3bb7f994-820c-45eb-916a-dacc3f6154d2",
+        "exceptionDefinitionName": "Test0911",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "37",
+        "exceptionDefinitionKey": "54720349-f3ee-477c-8cc7-4e4646481b60",
+        "exceptionDefinitionName": "New fatal error",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "38",
+        "exceptionDefinitionKey": "0f4f8901-363f-42d6-9e59-a0988bb6473e",
+        "exceptionDefinitionName": "test_Auto_CP_NAV",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "39",
+        "exceptionDefinitionKey": "69576022-a577-43fe-8ee3-bd5ee3c47405",
+        "exceptionDefinitionName": "Test_NAV_CaptureParams",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "40",
+        "exceptionDefinitionKey": "c61e6c9a-d9af-4b71-95e1-81f05d6da9a1",
+        "exceptionDefinitionName": "ExceptionManual_DUKE_ScenarioTest",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "41",
+        "exceptionDefinitionKey": "c692c59e-1c12-452d-9d2c-549d84f34868",
+        "exceptionDefinitionName": "ExceptionAuto_DUKE_ScenarioTest_1DayMissRead",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "42",
+        "exceptionDefinitionKey": "2ae6b320-b059-4441-b776-a8113b57bd2c",
+        "exceptionDefinitionName": "TESTDUKESCENARIO",
+        "workflowDefinitionId": "3ae4fcd0-d024-48dd-95e2-398dca55b02d",
+        "workflowDefinitionName": "DUKEWOMSWF",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "43",
+        "exceptionDefinitionKey": "23291b65-3e91-4f5a-a9ee-b77e35d627c8",
+        "exceptionDefinitionName": "Sep_9_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "44",
+        "exceptionDefinitionKey": "9cc84431-d07e-4a6c-aac3-099f4028b815",
+        "exceptionDefinitionName": "1 Day Missing Reads_Name",
+        "workflowDefinitionId": "77e22213-8159-4b16-b019-eda55e30f388",
+        "workflowDefinitionName": "NewShanti1234",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "45",
+        "exceptionDefinitionKey": "53a5a29e-3875-472e-a558-745e35606608",
+        "exceptionDefinitionName": "Sep_9_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "46",
+        "exceptionDefinitionKey": "79a088f4-7bde-4f4f-aed4-2473d1aabf47",
+        "exceptionDefinitionName": "Test_Manual_auto_2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "47",
+        "exceptionDefinitionKey": "828c2e9c-0079-42d7-a519-a190154d5934",
+        "exceptionDefinitionName": "CISMeterProgram",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "48",
+        "exceptionDefinitionKey": "216b2748-49a8-43d2-9a2f-b0bcf46d17c6",
+        "exceptionDefinitionName": "Exception0905",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "49",
+        "exceptionDefinitionKey": "cddd6ed2-fa32-46bd-a3a9-fa0d6c385603",
+        "exceptionDefinitionName": "1_electric_new",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "50",
+        "exceptionDefinitionKey": "cc007866-5586-4fa9-a911-796a542d0d85",
+        "exceptionDefinitionName": "2_electric_new",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "51",
+        "exceptionDefinitionKey": "8e900a70-7000-453b-a840-a7a690bf9681",
+        "exceptionDefinitionName": "Exception without unavailable reason",
+        "workflowDefinitionId": "a724493d-360c-404d-9714-a4c31911d9e4",
+        "workflowDefinitionName": "New Workflow 16",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "52",
+        "exceptionDefinitionKey": "ba64a490-098a-4fff-ba83-1e4fdb5d5fda",
+        "exceptionDefinitionName": "TEST GAS Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "53",
+        "exceptionDefinitionKey": "783926a1-12a2-4ac9-9dd4-4a820ce83ded",
+        "exceptionDefinitionName": "TEST WATER Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "54",
+        "exceptionDefinitionKey": "b9c61cc0-58ce-4c50-bf8d-dc43b20ccf56",
+        "exceptionDefinitionName": "TEST ELECTIRC Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "55",
+        "exceptionDefinitionKey": "bc8482af-a7d5-4cd6-863a-bae4c46fce1f",
+        "exceptionDefinitionName": "WATER Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "56",
+        "exceptionDefinitionKey": "d711e870-65f6-46f9-b421-d5791db86694",
+        "exceptionDefinitionName": "GAS Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "57",
+        "exceptionDefinitionKey": "5c9b4451-2d37-402d-9e12-e5969ac46d8a",
+        "exceptionDefinitionName": "Electric Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "58",
+        "exceptionDefinitionKey": "16916c85-741d-4ed6-81d8-a5b72ed6c9dc",
+        "exceptionDefinitionName": "1_electric_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "59",
+        "exceptionDefinitionKey": "280acc67-6122-4660-b177-68ef28c697f5",
+        "exceptionDefinitionName": "3_electric_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "60",
+        "exceptionDefinitionKey": "05c48ccd-9dda-42a5-8205-e6b1c8667cd9",
+        "exceptionDefinitionName": "2_electric_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "61",
+        "exceptionDefinitionKey": "11ef88f2-33d5-418b-be1c-a66f6fe099be",
+        "exceptionDefinitionName": "Meter Fatal Error",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "62",
+        "exceptionDefinitionKey": "84fb03dd-0b22-444a-99c4-b1b3852f0d3a",
+        "exceptionDefinitionName": "new_manual",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "63",
+        "exceptionDefinitionKey": "db789e44-e78e-40da-8282-450ebd03eb42",
+        "exceptionDefinitionName": "AM_Sep_Elec",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "64",
+        "exceptionDefinitionKey": "6c24662f-1c74-4c40-88e7-dd2d8df6b872",
+        "exceptionDefinitionName": "Def0902",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "65",
+        "exceptionDefinitionKey": "8da01551-4efe-42a0-a46e-1d5bf5cb6a90",
+        "exceptionDefinitionName": "AM_Sep1_Elec_Exep",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "66",
+        "exceptionDefinitionKey": "c7fc0db2-f5f9-487a-95f5-b7d680dd9065",
+        "exceptionDefinitionName": "AM_Sep1_Gas_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "67",
+        "exceptionDefinitionKey": "df32f889-b5a2-427b-ac4d-2110af73d8e6",
+        "exceptionDefinitionName": "TEST_ExCaptureParameters",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "68",
+        "exceptionDefinitionKey": "c7b2c1f9-2b3d-43aa-9ed0-9e8ef2fc36ce",
+        "exceptionDefinitionName": "Aug 31 edited after creation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "69",
+        "exceptionDefinitionKey": "3fc082a6-11df-4d06-979d-3c27a38be690",
+        "exceptionDefinitionName": "test_Duke_5",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "70",
+        "exceptionDefinitionKey": "6e1e8f03-8be8-45d1-a5c2-9a1412239b43",
+        "exceptionDefinitionName": "Electric_exception_1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "71",
+        "exceptionDefinitionKey": "645eaaa5-e5b5-4274-a2d8-956a1a8f3627",
+        "exceptionDefinitionName": "ACtestElectricDef",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "72",
+        "exceptionDefinitionKey": "c5650ab9-816a-460f-ab70-3e64e0081950",
+        "exceptionDefinitionName": "test_charan2_def",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "73",
+        "exceptionDefinitionKey": "3caf9ba8-109c-48fe-925c-e3201b5929d8",
+        "exceptionDefinitionName": "test_AM_PM_2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "74",
+        "exceptionDefinitionKey": "3652f619-89dd-427b-af27-aa84bf4d525d",
+        "exceptionDefinitionName": "TEST_DUKE",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "75",
+        "exceptionDefinitionKey": "508559da-b525-4de0-af36-95b3c5f24c3e",
+        "exceptionDefinitionName": "HPDefinitionNew",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "76",
+        "exceptionDefinitionKey": "d6f702b9-0a5e-433d-8e4d-d46e44a56887",
+        "exceptionDefinitionName": "Test_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "77",
+        "exceptionDefinitionKey": "4b842ddb-7113-496c-bc57-e03bba5851b3",
+        "exceptionDefinitionName": "test_charan_Duke_test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "78",
+        "exceptionDefinitionKey": "7bfefa17-476a-43d2-bf75-2574bfc50a8d",
+        "exceptionDefinitionName": "audit",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "79",
+        "exceptionDefinitionKey": "7724ea3e-0eab-4510-baec-85ea7f0b068e",
+        "exceptionDefinitionName": "test_Duke_manual",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "80",
+        "exceptionDefinitionKey": "ab696f4a-2c03-4e3e-9d02-bf1721e1cdbb",
+        "exceptionDefinitionName": "nav_Auto_Man_test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "81",
+        "exceptionDefinitionKey": "3bd1babd-f57d-4151-852b-459eb84f9edb",
+        "exceptionDefinitionName": "Electric_exception_2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "82",
+        "exceptionDefinitionKey": "3c9ee510-855d-4024-8b51-5d7c1efa7a69",
+        "exceptionDefinitionName": "Manual_Test_RK",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "83",
+        "exceptionDefinitionKey": "ce49cc34-356e-4942-b506-c5dbeeeb6c00",
+        "exceptionDefinitionName": "14July_Manual_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "84",
+        "exceptionDefinitionKey": "3b65c1b0-abbc-4121-a1ea-5dd9264ab4ed",
+        "exceptionDefinitionName": "HP_Definition1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "85",
+        "exceptionDefinitionKey": "157c2662-716e-4800-96cd-02522282a6de",
+        "exceptionDefinitionName": "Exception with Reason",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "86",
+        "exceptionDefinitionKey": "dd5c2ba0-0373-425c-9223-6cc93569fea6",
+        "exceptionDefinitionName": "Audit2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "87",
+        "exceptionDefinitionKey": "bd0ec816-d513-4a2e-aac6-880ad84b2513",
+        "exceptionDefinitionName": "Neet_exception_3",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "88",
+        "exceptionDefinitionKey": "aeae10aa-6175-4850-9bf1-0fa424e440da",
+        "exceptionDefinitionName": "Neet_exception_2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "89",
+        "exceptionDefinitionKey": "f67a6c9c-3fb5-4929-89ec-63040d090fe7",
+        "exceptionDefinitionName": "Neet_exception_1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "90",
+        "exceptionDefinitionKey": "7f75c02f-6243-4a44-b347-6c1c08ff0807",
+        "exceptionDefinitionName": "Manual_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "91",
+        "exceptionDefinitionKey": "b27e5233-36b7-4570-bd09-7730502fa481",
+        "exceptionDefinitionName": "Automated_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "92",
+        "exceptionDefinitionKey": "f238693a-113e-4d0d-8e0a-50c899f2539d",
+        "exceptionDefinitionName": "29_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "93",
+        "exceptionDefinitionKey": "6aef3d9e-cee9-43f4-b200-575a49227f90",
+        "exceptionDefinitionName": "Audit test11",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "94",
+        "exceptionDefinitionKey": "06e47e35-a125-49aa-88b1-7f9b64cd9b48",
+        "exceptionDefinitionName": "ACTESTAutoSteps",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "95",
+        "exceptionDefinitionKey": "4d8f29e0-b804-4d6c-8341-2f2702b870a2",
+        "exceptionDefinitionName": "Auto_exception_without_reason",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "96",
+        "exceptionDefinitionKey": "0f8f46b7-d4f7-4fe5-816b-f68e3ad35cf2",
+        "exceptionDefinitionName": "Manual_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "97",
+        "exceptionDefinitionKey": "869fd8ec-4ff9-4b30-aa74-349af6212210",
+        "exceptionDefinitionName": "NewExceptionDef",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "98",
+        "exceptionDefinitionKey": "e63bfdbe-b4bd-4304-aea4-acc870bfd21c",
+        "exceptionDefinitionName": "TestExceptin_24Aug",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "99",
+        "exceptionDefinitionKey": "86bedf04-1181-4adc-80a7-d01471aa89ed",
+        "exceptionDefinitionName": "SecondaryDeviceException",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "100",
+        "exceptionDefinitionKey": "b7dd2874-3b70-4681-bd43-02b79a3413b4",
+        "exceptionDefinitionName": "HPDefinition824",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "101",
+        "exceptionDefinitionKey": "7795161b-d510-4be0-bd92-8d3350433915",
+        "exceptionDefinitionName": "TestExceptionDuke",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "102",
+        "exceptionDefinitionKey": "0cdd86fe-8544-49a9-ab9a-550ab5bbd961",
+        "exceptionDefinitionName": "SKException",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "103",
+        "exceptionDefinitionKey": "7dbceff1-3b04-44f4-945e-7a1d78a08dc0",
+        "exceptionDefinitionName": "RKAug20",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "104",
+        "exceptionDefinitionKey": "21c5dc8c-3e3d-41ba-9638-3804e4669218",
+        "exceptionDefinitionName": "New_Manual",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "105",
+        "exceptionDefinitionKey": "1381acb0-2232-4869-9c14-81975bb4945d",
+        "exceptionDefinitionName": "manual_new",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "106",
+        "exceptionDefinitionKey": "923de80d-0320-4b1c-88d8-302350346578",
+        "exceptionDefinitionName": "Aug_22_Integration",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "107",
+        "exceptionDefinitionKey": "9f29d4b7-011f-4c4c-aef6-50f26b4399c3",
+        "exceptionDefinitionName": "TestException",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "108",
+        "exceptionDefinitionKey": "d77e3e91-cec3-4802-bf65-7b7e8c6e7a4a",
+        "exceptionDefinitionName": "Aut_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "109",
+        "exceptionDefinitionKey": "c59bf2b8-07e4-49d6-97fb-8537b617c6ef",
+        "exceptionDefinitionName": "Automated_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "110",
+        "exceptionDefinitionKey": "2c86e2d8-33c2-4911-ac56-b7583d478fc7",
+        "exceptionDefinitionName": "Daily_Interrogation_4",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "111",
+        "exceptionDefinitionKey": "97dcd96c-f613-40dc-9035-b6312710bb2e",
+        "exceptionDefinitionName": "Daily_Interrogation_3",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "112",
+        "exceptionDefinitionKey": "cfd69661-458f-4413-9c7a-cf0635471d84",
+        "exceptionDefinitionName": "Daily_Interrogation_2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "113",
+        "exceptionDefinitionKey": "264592eb-2c92-438f-9936-7fc091a0ed31",
+        "exceptionDefinitionName": "Daily_Interrogation_1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "114",
+        "exceptionDefinitionKey": "a8efaa4f-4609-4ed3-91db-9c64d32554a3",
+        "exceptionDefinitionName": "Daily_Interrogation_Gas_1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "115",
+        "exceptionDefinitionKey": "0fbb489e-20ad-49a9-88de-a06cdf5cbdb7",
+        "exceptionDefinitionName": "Daily_Interrogation_Gas_2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "116",
+        "exceptionDefinitionKey": "daf841cd-3691-498e-bf1b-974045c2ea58",
+        "exceptionDefinitionName": "Daily_Interrogation_Gas_3",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "117",
+        "exceptionDefinitionKey": "20a91a2d-75d4-4a4c-b79e-27ea0ebcf353",
+        "exceptionDefinitionName": "ManualAction2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "118",
+        "exceptionDefinitionKey": "04e3fac7-4672-424d-a758-2338bbdd3683",
+        "exceptionDefinitionName": "OneDayRel_zero_Unavailability_test2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "119",
+        "exceptionDefinitionKey": "b3cfa6a4-4bcc-490b-8086-536f056b216b",
+        "exceptionDefinitionName": "OneDayRel_zero_Unavailability_test3",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "120",
+        "exceptionDefinitionKey": "5c6f7143-052e-48ee-abad-e6c6b6f4ce2c",
+        "exceptionDefinitionName": "OneDayRel_zero_Unavailability_test1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "121",
+        "exceptionDefinitionKey": "ac95315e-1430-46ba-9c03-5f55d146ac30",
+        "exceptionDefinitionName": "August_7_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "122",
+        "exceptionDefinitionKey": "42991d28-3d98-4857-ae10-27b9aae8d548",
+        "exceptionDefinitionName": "17_july_gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "123",
+        "exceptionDefinitionKey": "a6655e0c-888d-477f-aaf6-49fddde8d5a9",
+        "exceptionDefinitionName": "RK19AUG",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "124",
+        "exceptionDefinitionKey": "9abf381c-4405-4999-8b50-b0bb18acb984",
+        "exceptionDefinitionName": "Electric_Exception_Manual",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "125",
+        "exceptionDefinitionKey": "d91c5e28-6fbc-4b1a-a7db-73298c9c340c",
+        "exceptionDefinitionName": "PriorityWeight_DoNotTouch",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "126",
+        "exceptionDefinitionKey": "dd7f7ca8-dad4-4d96-84b6-6819bb383295",
+        "exceptionDefinitionName": "SPGASACNew",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "127",
+        "exceptionDefinitionKey": "8077667e-c6e6-4012-9075-fa351500c9d5",
+        "exceptionDefinitionName": "0_reliability_all",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "128",
+        "exceptionDefinitionKey": "b6a595c8-6760-42fc-b54e-3b57f9af7bb4",
+        "exceptionDefinitionName": "17_8_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "129",
+        "exceptionDefinitionKey": "031ddaec-5036-4ade-9f76-b230eefc688f",
+        "exceptionDefinitionName": "17_8_Elec",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "130",
+        "exceptionDefinitionKey": "2c3f5f84-e95e-4699-9343-be95d4920060",
+        "exceptionDefinitionName": "17_8_FinalResultCode",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "131",
+        "exceptionDefinitionKey": "b998959c-5ce4-4dd7-8ff9-1459956fd98b",
+        "exceptionDefinitionName": "Aug16_Manual",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "132",
+        "exceptionDefinitionKey": "ec8d14e5-6c4a-49f5-a2b4-db3575911e41",
+        "exceptionDefinitionName": "Rk_Test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "133",
+        "exceptionDefinitionKey": "1fc5befd-9a6f-43d0-921d-6a86d288f26d",
+        "exceptionDefinitionName": "ACTestElectricManualWF",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "134",
+        "exceptionDefinitionKey": "9f092a2b-11ab-404b-8c94-9cd7695eede3",
+        "exceptionDefinitionName": "Aug_7_Water",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "135",
+        "exceptionDefinitionKey": "ac2c2d7e-62cc-4950-87a7-07a0474e0994",
+        "exceptionDefinitionName": "Aug_7_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "136",
+        "exceptionDefinitionKey": "fc6da946-a9d1-4e05-a093-b68a6b78f131",
+        "exceptionDefinitionName": "Manual_Test2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "137",
+        "exceptionDefinitionKey": "6b969af7-9818-429e-b5c9-d3775e224cb9",
+        "exceptionDefinitionName": "Automated_Test_Unavailablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "138",
+        "exceptionDefinitionKey": "0c0a57cd-63fd-4ba1-8e68-a599f78123a0",
+        "exceptionDefinitionName": "13July_servicepoint_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "139",
+        "exceptionDefinitionKey": "e5db56ed-bd1c-47a3-afde-3bec2bce9903",
+        "exceptionDefinitionName": "Electric_manual_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "140",
+        "exceptionDefinitionKey": "f348391d-797f-4331-be73-a3773200643f",
+        "exceptionDefinitionName": "Test_ELEC_30day_rel",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "141",
+        "exceptionDefinitionKey": "74daa9f4-664b-49aa-8362-d53af2326c3d",
+        "exceptionDefinitionName": "fatal_error_electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "142",
+        "exceptionDefinitionKey": "20ff9e7f-92de-4773-ad19-7d3a4d67a16a",
+        "exceptionDefinitionName": "Electric_1day_0reliablity_25thjuly",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "143",
+        "exceptionDefinitionKey": "e01db73c-176b-4696-afda-3331d778c047",
+        "exceptionDefinitionName": "CISConfiguration_Mismatch_25thJuly",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "144",
+        "exceptionDefinitionKey": "0c860ef5-a71a-4efc-b932-0d8a7ccb998d",
+        "exceptionDefinitionName": "24_7_Exception_fatal_error_type_electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "145",
+        "exceptionDefinitionKey": "78a501a1-2f5d-448f-92a8-1ef28ecefe44",
+        "exceptionDefinitionName": "Automated_clearing_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "146",
+        "exceptionDefinitionKey": "4164cc9c-b2af-4134-a607-585398433a95",
+        "exceptionDefinitionName": "Test_Exception_Meghana",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "147",
+        "exceptionDefinitionKey": "5c9a0a28-1400-4597-9c95-4b5775f3b73f",
+        "exceptionDefinitionName": "17_July_electric_exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "148",
+        "exceptionDefinitionKey": "63853ab6-68af-449a-bf46-7cc7cf1f85df",
+        "exceptionDefinitionName": "Gas_AutomatedException_With_Unavailable_Reason",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "149",
+        "exceptionDefinitionKey": "415c7b42-2eb5-4872-96e9-b15a930c21cb",
+        "exceptionDefinitionName": "Verify Bug 264675",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "150",
+        "exceptionDefinitionKey": "7cf87762-2c21-4714-8736-8c2238ac265f",
+        "exceptionDefinitionName": "18_july_gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "151",
+        "exceptionDefinitionKey": "74b665a0-cfb9-4039-8c69-9097a837b0a3",
+        "exceptionDefinitionName": "neet test gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "152",
+        "exceptionDefinitionKey": "5ccd323a-b0e9-4165-9308-796eb20f9f55",
+        "exceptionDefinitionName": "Meter_Fatal_Error_On_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "153",
+        "exceptionDefinitionKey": "3535a917-7834-4ddc-ad50-fc009488314f",
+        "exceptionDefinitionName": "Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "154",
+        "exceptionDefinitionKey": "1091431e-37da-4090-ad42-844d5e3b63e0",
+        "exceptionDefinitionName": "17_July_Exception_Gas_Manual",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "155",
+        "exceptionDefinitionKey": "2010cbc1-bee8-4631-977b-f5b4fe071d01",
+        "exceptionDefinitionName": "Electric_AutomatedException_With_Unavailable_Reason",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "156",
+        "exceptionDefinitionKey": "d512cd78-dd9c-49ef-80da-15edd894a132",
+        "exceptionDefinitionName": "13_July_ConfigSync_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "157",
+        "exceptionDefinitionKey": "c9178526-30c1-45cc-ba83-c69942124b85",
+        "exceptionDefinitionName": "Exception_ConfigSync_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "158",
+        "exceptionDefinitionKey": "e507f423-7c96-4769-83ff-8bfc10db88c6",
+        "exceptionDefinitionName": "11July_Electric_ExceptionType",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "159",
+        "exceptionDefinitionKey": "962050d5-2a4c-4032-820a-beb50ee94f11",
+        "exceptionDefinitionName": "12_July_Exception_Gas_Manual",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "160",
+        "exceptionDefinitionKey": "dd028aac-a000-4d4a-b17c-a9001e17c12b",
+        "exceptionDefinitionName": "12_July_Exception_Defintion_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "161",
+        "exceptionDefinitionKey": "f7641693-a5b0-483a-b751-99dc43f786af",
+        "exceptionDefinitionName": "11July_SecondaryDevice_ExceptionType",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "162",
+        "exceptionDefinitionKey": "37e0e07f-0e26-4715-b8fb-d94a36b9caec",
+        "exceptionDefinitionName": "12_July_Exception_Defintion_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "163",
+        "exceptionDefinitionKey": "efd7aa73-d47d-4f95-abad-3a01df59ddb3",
+        "exceptionDefinitionName": "11_ExceptionType_Gas_WithFatalError",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "164",
+        "exceptionDefinitionKey": "dba6ad8c-3fc5-4db7-8164-d1b932bce4d6",
+        "exceptionDefinitionName": "test_unavialbility_1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "165",
+        "exceptionDefinitionKey": "b4de9b36-8d32-485a-975d-35566b7686bc",
+        "exceptionDefinitionName": "Exception_Electric_10July",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "166",
+        "exceptionDefinitionKey": "29740769-cc74-4176-9d36-1079970b06e2",
+        "exceptionDefinitionName": "Test_NAV_AutoManual",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "167",
+        "exceptionDefinitionKey": "e7e4ffc6-9571-4123-9e7b-271682ce8277",
+        "exceptionDefinitionName": "Electric_Exception_Manual_7July2017",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "168",
+        "exceptionDefinitionKey": "cc48485d-9ae5-43dc-85fd-c0bf65201098",
+        "exceptionDefinitionName": "Electric_Exception_7July",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "169",
+        "exceptionDefinitionKey": "cda1c3f9-829e-459c-9bc6-5a5ff6d32d61",
+        "exceptionDefinitionName": "Electric_7July_TestAgain",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "170",
+        "exceptionDefinitionKey": "33111d86-8b5f-447a-bfd6-1998a185e50f",
+        "exceptionDefinitionName": "TestException_7July_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "171",
+        "exceptionDefinitionKey": "89edce13-f4a8-44e1-a52c-aa93cd202cbe",
+        "exceptionDefinitionName": "TestException_30June_Electric1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "172",
+        "exceptionDefinitionKey": "9e56d35e-5eeb-4161-8d1f-f2064008d476",
+        "exceptionDefinitionName": "TestException_30June_SecondaryDevice",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "173",
+        "exceptionDefinitionKey": "ddc05aab-ffed-4c45-a4b0-95694475d7e7",
+        "exceptionDefinitionName": "TestException_30June_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "174",
+        "exceptionDefinitionKey": "b1b4abd6-05bd-4594-87e4-cf9ec9939672",
+        "exceptionDefinitionName": "TestException_30June_Water",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "175",
+        "exceptionDefinitionKey": "9bfcfa95-bd5b-4163-a9c7-044f7dcc9887",
+        "exceptionDefinitionName": "TestException_30Jun_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "176",
+        "exceptionDefinitionKey": "99115390-adde-4497-a6de-5b14fed6876a",
+        "exceptionDefinitionName": "Automated_Electric_Exception_1-3-7-30",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "177",
+        "exceptionDefinitionKey": "67b2475a-1c81-4e69-ab2c-ec7f4125cf5b",
+        "exceptionDefinitionName": "FinalExceptionHotFixIESPE",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "178",
+        "exceptionDefinitionKey": "e4d9f555-1c37-4ec2-bf84-2d81f7e02712",
+        "exceptionDefinitionName": "Jeff Test Exception 2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "179",
+        "exceptionDefinitionKey": "5b779849-1aaf-4ab7-818b-50b886552ab1",
+        "exceptionDefinitionName": "TestException28Jun17",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "180",
+        "exceptionDefinitionKey": "dd7d0742-0c37-49f3-bf0f-15a6d152dfb5",
+        "exceptionDefinitionName": "Jeff Test Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "181",
+        "exceptionDefinitionKey": "836cc3d1-e202-46a8-84d6-138fc79efa4d",
+        "exceptionDefinitionName": "Stephen Type 3",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "182",
+        "exceptionDefinitionKey": "f1c49f0a-e0ae-4432-8b2e-ebfca386b5af",
+        "exceptionDefinitionName": "Stephen Type 2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "183",
+        "exceptionDefinitionKey": "855f09c9-1afe-47b7-8148-c8ed94e85940",
+        "exceptionDefinitionName": "Stephen Type 1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "184",
+        "exceptionDefinitionKey": "bf2c0f66-8d3b-4db3-ae3e-a53818037227",
+        "exceptionDefinitionName": "ExceptiondefcreatedinAM",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "185",
+        "exceptionDefinitionKey": "6a211705-7fca-4656-9b91-18a0e8362617",
+        "exceptionDefinitionName": "NewException27Jun",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "186",
+        "exceptionDefinitionKey": "8dda5f64-9b35-448e-88ec-05f388b7b728",
+        "exceptionDefinitionName": "TestExceptionIESPG",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "187",
+        "exceptionDefinitionKey": "d767e1f8-f6ee-4941-9ebf-944e6cd518e8",
+        "exceptionDefinitionName": "test_ie_final",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "188",
+        "exceptionDefinitionKey": "594a2cc7-3856-4a82-b3b9-dd908ec5513f",
+        "exceptionDefinitionName": "Teston ie11",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "189",
+        "exceptionDefinitionKey": "770a2952-e08b-4969-a13a-60a075161908",
+        "exceptionDefinitionName": "FinalTestIE11122",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "190",
+        "exceptionDefinitionKey": "5dca5183-0c37-4d32-8b89-21c8f69be2d9",
+        "exceptionDefinitionName": "24JuneElectricEx",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "191",
+        "exceptionDefinitionKey": "c9342e65-870b-472e-a70e-a1f084ade9aa",
+        "exceptionDefinitionName": "Test_RedBanner",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "192",
+        "exceptionDefinitionKey": "16ad98ca-5aa3-46b5-8d3b-fe47e327c5c6",
+        "exceptionDefinitionName": "test23Jun_Dev",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "193",
+        "exceptionDefinitionKey": "d2e1d2ae-6424-4f3f-8879-62dcafd59b07",
+        "exceptionDefinitionName": "Test_23",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "194",
+        "exceptionDefinitionKey": "e9faf6cd-2115-4475-b8e0-8e47ba936c95",
+        "exceptionDefinitionName": "testHotfixDef11",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "195",
+        "exceptionDefinitionKey": "f1fcf356-b096-422f-899a-02ffa60aef01",
+        "exceptionDefinitionName": "TestNewHotfix1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "196",
+        "exceptionDefinitionKey": "47d904b9-1e6a-4479-9edc-c28b407f5618",
+        "exceptionDefinitionName": "TestExceptionDefElectricIE11-new",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "197",
+        "exceptionDefinitionKey": "9639f78d-8d48-4097-acad-304806895b5a",
+        "exceptionDefinitionName": "Test in IE_Bug",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "198",
+        "exceptionDefinitionKey": "e7bad9d3-f3c6-44c8-9513-4c231eed7ac4",
+        "exceptionDefinitionName": "TestExceptionIE11-new",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "199",
+        "exceptionDefinitionKey": "d2e4f9f1-1f7d-46c8-9a02-364b81fcdb61",
+        "exceptionDefinitionName": "TestExceptionDefIE11",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "200",
+        "exceptionDefinitionKey": "72cd3c81-310d-4b8b-a3fd-9966c6e883a1",
+        "exceptionDefinitionName": "20_June_Secondary",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "201",
+        "exceptionDefinitionKey": "ed817ee8-5676-41fd-9d86-7fdd4225b162",
+        "exceptionDefinitionName": "20_June_Electric_Manual",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "202",
+        "exceptionDefinitionKey": "09d207b5-0a69-40ba-af9a-faec4243c13d",
+        "exceptionDefinitionName": "test new",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "203",
+        "exceptionDefinitionKey": "a72ed955-f923-4ee7-89a8-d015c185c739",
+        "exceptionDefinitionName": "Manual IE Test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "204",
+        "exceptionDefinitionKey": "dea01154-3f3d-41f2-8a8c-85a5aaf9dc84",
+        "exceptionDefinitionName": "ie test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "205",
+        "exceptionDefinitionKey": "fcc175bc-e658-42b7-b2d7-2728cad5ce05",
+        "exceptionDefinitionName": "manual test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "206",
+        "exceptionDefinitionKey": "944c2f68-28b7-47f2-a2c4-93078d8d637f",
+        "exceptionDefinitionName": "Manual_Exception_15_6",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "207",
+        "exceptionDefinitionKey": "2dc9738b-0d0b-425d-b601-e1f6bd22af93",
+        "exceptionDefinitionName": "Secondary_exception_test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "208",
+        "exceptionDefinitionKey": "67ba25d7-1bde-4309-8db2-307ee699b978",
+        "exceptionDefinitionName": "No_Read",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "209",
+        "exceptionDefinitionKey": "c704f7c4-a311-48e2-8ef6-37628334ee58",
+        "exceptionDefinitionName": "Gas_1day_reliability_test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "210",
+        "exceptionDefinitionKey": "003b12ad-a622-4dd3-a4b5-3e36627d9f58",
+        "exceptionDefinitionName": "Electric_1_3_7_30_EndpointReliabilty_Condition",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "211",
+        "exceptionDefinitionKey": "9e381ca7-5d17-4a03-bcf8-b9e70c194d36",
+        "exceptionDefinitionName": "Electric_exception_1day",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "212",
+        "exceptionDefinitionKey": "c60618ea-e30d-42ce-99ad-b5bf29ee29b1",
+        "exceptionDefinitionName": "Electric_Exception_7Day_test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "213",
+        "exceptionDefinitionKey": "37ead369-f349-4b0a-9f90-607fd34b385a",
+        "exceptionDefinitionName": "24May_Electric_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "214",
+        "exceptionDefinitionKey": "0df251bd-edd5-46a2-b64e-f3b1441df69b",
+        "exceptionDefinitionName": "Electric_1day_rel",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "215",
+        "exceptionDefinitionKey": "4b38067b-3880-416b-97e2-e63e27ad811b",
+        "exceptionDefinitionName": "Electric_allday",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "216",
+        "exceptionDefinitionKey": "a5a9eca5-a1a7-4ea6-a94f-a946729048b9",
+        "exceptionDefinitionName": "Test_electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "217",
+        "exceptionDefinitionKey": "3e07bc89-094e-4c29-94fa-fb7daf4952d7",
+        "exceptionDefinitionName": "TestACException",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "218",
+        "exceptionDefinitionKey": "847aa6b1-4748-4dbd-befc-bd7119b7bbf0",
+        "exceptionDefinitionName": "electric1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "219",
+        "exceptionDefinitionKey": "85c21efd-52c1-4f63-b9be-4fe46fe4e268",
+        "exceptionDefinitionName": "ELectric_1day",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "220",
+        "exceptionDefinitionKey": "7b44ba34-7fda-41ed-a4e8-f796956fd933",
+        "exceptionDefinitionName": "Electric_1day",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "221",
+        "exceptionDefinitionKey": "d272c033-bc2e-4d29-8af1-ff44bfb552a6",
+        "exceptionDefinitionName": "Electric_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "222",
+        "exceptionDefinitionKey": "e4182e6f-44b1-4ed3-88ff-45ed38cb548d",
+        "exceptionDefinitionName": "Electric_Exception_7Reliability_test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "223",
+        "exceptionDefinitionKey": "05644f08-3f7f-4696-bc03-101fa2f39a84",
+        "exceptionDefinitionName": "Electric_Exception_1day_less_100",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "224",
+        "exceptionDefinitionKey": "e0e249e7-48f9-408e-ab0b-b9629d83875a",
+        "exceptionDefinitionName": "Test exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "225",
+        "exceptionDefinitionKey": "3fa07a0b-95c4-48b0-ab06-279f3343964f",
+        "exceptionDefinitionName": "27Gas_AllCondition",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "226",
+        "exceptionDefinitionKey": "8b358377-e3d6-4921-806c-5eb5b06d8608",
+        "exceptionDefinitionName": "27Electric_AllCondition",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "227",
+        "exceptionDefinitionKey": "6230827e-fcbd-4210-b210-b25b685f1c8c",
+        "exceptionDefinitionName": "27Gas_AllReliabity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "228",
+        "exceptionDefinitionKey": "ca40dd3b-6eb5-4191-8a8b-d6fd875cea0c",
+        "exceptionDefinitionName": "27Electric_AllReliabity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "229",
+        "exceptionDefinitionKey": "41c69e22-ac1c-479f-856f-f1484c059049",
+        "exceptionDefinitionName": "27Gas_FinalResultCode",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "230",
+        "exceptionDefinitionKey": "4a6addf3-c4c4-421f-bd96-4e3e9040dc5b",
+        "exceptionDefinitionName": "27Electric_FinalResultCode",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "231",
+        "exceptionDefinitionKey": "4ee258e0-4a04-4fad-84e0-679a32b11a6a",
+        "exceptionDefinitionName": "27Gas_No_Daily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "232",
+        "exceptionDefinitionKey": "0acea33b-c5e1-4152-9525-1de4a5e1d034",
+        "exceptionDefinitionName": "27Electric_No_Daily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "233",
+        "exceptionDefinitionKey": "d0931354-bab5-43df-b2ca-f75372546733",
+        "exceptionDefinitionName": "26Gas_EndpointReliablity=0",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "234",
+        "exceptionDefinitionKey": "4c0bffc3-0db3-4863-9fda-e1df81b45cff",
+        "exceptionDefinitionName": "26Gas_No_Daily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "235",
+        "exceptionDefinitionKey": "d53ce22a-b09e-4f01-998e-35f06bc2ce22",
+        "exceptionDefinitionName": "26April_Electric_Automated_Electric_Reliablity_1day",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "236",
+        "exceptionDefinitionKey": "4a438e36-abf4-4ebc-87aa-1e6bae0e7e67",
+        "exceptionDefinitionName": "26April_Electric_Automated_Electric_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "237",
+        "exceptionDefinitionKey": "7daa61ad-01dd-42c0-91e0-a99895625698",
+        "exceptionDefinitionName": "26April_Electric_30Reliability",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "238",
+        "exceptionDefinitionKey": "deec8759-b863-47fc-aef7-ec7e679bd970",
+        "exceptionDefinitionName": "Test waterwa",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "239",
+        "exceptionDefinitionKey": "2fcfec2e-c59a-4c12-8907-4c1f8a02af43",
+        "exceptionDefinitionName": "25April_Gas__252_AUTO_all_END+FIN+NODAILY",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "240",
+        "exceptionDefinitionKey": "eeb87db9-e71b-4e60-a307-2179607f71de",
+        "exceptionDefinitionName": "25April_Gas_AUTO_all_END+FIN+NODAILY",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "241",
+        "exceptionDefinitionKey": "69fcaf9f-47a3-4997-b24b-adf20ae74731",
+        "exceptionDefinitionName": "25April_Gas_NoDailyInterrogations",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "242",
+        "exceptionDefinitionKey": "84238fcf-2f27-43b1-ae1a-76c2e061df90",
+        "exceptionDefinitionName": "25April_Gas_FinalResultCode",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "243",
+        "exceptionDefinitionKey": "0c3867b0-2bd8-47cb-a17d-d7daa49aa713",
+        "exceptionDefinitionName": "24April_Automated_Water_AllReliablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "244",
+        "exceptionDefinitionKey": "8c1a8aea-2e78-4dcb-9010-8b1890485658",
+        "exceptionDefinitionName": "23April_Automated_Gas_Final+Rel",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "245",
+        "exceptionDefinitionKey": "93079cef-6572-49dd-ae5c-3f73b51d0601",
+        "exceptionDefinitionName": "23April_Automated_Gas_NoDaily+Rel",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "246",
+        "exceptionDefinitionKey": "eb54c4ff-f655-444f-b98d-1a62b3cbab64",
+        "exceptionDefinitionName": "23April_Automated_Gas-All",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "247",
+        "exceptionDefinitionKey": "c821b1ba-cb7c-4bfe-b742-8397541daecf",
+        "exceptionDefinitionName": "23April_Automated_Electric-All",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "248",
+        "exceptionDefinitionKey": "62f75b86-3185-4616-b886-a73fe3d4ab26",
+        "exceptionDefinitionName": "23April_Automated_Rel_NoInterrogations_Again",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "249",
+        "exceptionDefinitionKey": "59c0543e-128b-449e-ab88-46f8e08a4e59",
+        "exceptionDefinitionName": "23April_Automated_AllReliablity__NodailyInterrogations",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "250",
+        "exceptionDefinitionKey": "8545345b-d686-4cc2-a26a-6bb580bb05d7",
+        "exceptionDefinitionName": "23April_Automated_Reliablity+NodailyInterrogations",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "251",
+        "exceptionDefinitionKey": "6a679a76-767e-4a1c-809f-e9e7b4fa3e39",
+        "exceptionDefinitionName": "23April_Automated_Gas_Interrogation=0",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "252",
+        "exceptionDefinitionKey": "04f580ac-612c-4fd8-b44b-419b1b3df080",
+        "exceptionDefinitionName": "23April_Automated_Gas_All",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "253",
+        "exceptionDefinitionKey": "c2c8d94a-7e29-410a-b23c-4e2b32426f4a",
+        "exceptionDefinitionName": "23April_Manual_SecondaryDevice",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "254",
+        "exceptionDefinitionKey": "8f84aa51-ef70-465a-a3b6-50d0d6dec414",
+        "exceptionDefinitionName": "23April_Manual_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "255",
+        "exceptionDefinitionKey": "e9578c89-701b-446b-a396-da85f91cc4ce",
+        "exceptionDefinitionName": "23April_Manual_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "256",
+        "exceptionDefinitionKey": "4688240e-daf6-4618-9e0e-bb87e75f48b9",
+        "exceptionDefinitionName": "Test_Exception_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "257",
+        "exceptionDefinitionKey": "8d57ddef-60cc-4a69-b9ac-90634c390e8b",
+        "exceptionDefinitionName": "Test_Exception_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "258",
+        "exceptionDefinitionKey": "7ed6fac4-bcc0-4dd2-9734-da02fac29b62",
+        "exceptionDefinitionName": "Test Final Result Clear",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "259",
+        "exceptionDefinitionKey": "c1168a53-638b-4027-b8ad-db1775a457c7",
+        "exceptionDefinitionName": "Test_Exception_MetricValueFormat",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "260",
+        "exceptionDefinitionKey": "7cd53a5e-4dd1-4fa5-a74a-93b10f5c26b7",
+        "exceptionDefinitionName": "18April_Automated_Gas_No_Daily_Interrogations",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "261",
+        "exceptionDefinitionKey": "0ff582a4-1e0e-4618-98b4-0940722819e7",
+        "exceptionDefinitionName": "18April_Automated_Gas_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "262",
+        "exceptionDefinitionKey": "ead996a1-76e0-4242-b5a2-98d461b80246",
+        "exceptionDefinitionName": "18April_Automated_Gas_All_Relaiblity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "263",
+        "exceptionDefinitionKey": "b40fa534-4a52-4745-9416-abae7568c751",
+        "exceptionDefinitionName": "18April_Automated_Electric_No_Daily_Interrogations",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "264",
+        "exceptionDefinitionKey": "475b9df2-64a6-4bf0-9893-3d2c34780461",
+        "exceptionDefinitionName": "18April_Automated_Electric_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "265",
+        "exceptionDefinitionKey": "8ed102da-78d8-4107-8ea2-e85c65feb7da",
+        "exceptionDefinitionName": "18April_Automated_Electric_All_Relaiblity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "266",
+        "exceptionDefinitionKey": "2feb41a7-6892-49ad-8cf7-50e59dad4aa1",
+        "exceptionDefinitionName": "18April_Manual_SecondaryDevice",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "267",
+        "exceptionDefinitionKey": "19eb8200-4cb5-4dcf-8111-781d9d6607da",
+        "exceptionDefinitionName": "18April_Manual_Water",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "268",
+        "exceptionDefinitionKey": "efae0483-faf5-428d-b3bc-d1fa4be6ee05",
+        "exceptionDefinitionName": "18April_Manual_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "269",
+        "exceptionDefinitionKey": "dc5ee714-e478-4ff9-b665-c9db2653c5ea",
+        "exceptionDefinitionName": "18April_Manual_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "270",
+        "exceptionDefinitionKey": "5b51b016-12ce-4841-a9b9-81b4ec373d9d",
+        "exceptionDefinitionName": "TESTMANUALAMBUGSD",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "271",
+        "exceptionDefinitionKey": "5f871b60-07fa-4b80-b958-d2a493c5eeb9",
+        "exceptionDefinitionName": "Execption Type Test hg",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "272",
+        "exceptionDefinitionKey": "42cd503b-c7ab-44fd-a579-27e41b540471",
+        "exceptionDefinitionName": "Test exception himanshu 4_177",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "273",
+        "exceptionDefinitionKey": "400c8f81-d37c-4f63-89ca-9c8b5ce70dde",
+        "exceptionDefinitionName": "TESTAMBUGMANUAL",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "274",
+        "exceptionDefinitionKey": "efb50d25-a379-4eed-bbd7-cff6a35c6148",
+        "exceptionDefinitionName": "Test exception himanshu 4_17",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "275",
+        "exceptionDefinitionKey": "41be1612-0a66-4991-8e6c-3acdb26d705a",
+        "exceptionDefinitionName": "17April_Manual_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "276",
+        "exceptionDefinitionKey": "311b9706-efd6-4c0b-9ae0-b6e2b26bf027",
+        "exceptionDefinitionName": "17April_Manual_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "277",
+        "exceptionDefinitionKey": "2091c7fb-507d-4dc7-9a00-cd3992411b42",
+        "exceptionDefinitionName": "testexception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "278",
+        "exceptionDefinitionKey": "37456f30-118e-470f-8c0f-edb7db1a7328",
+        "exceptionDefinitionName": "test1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "279",
+        "exceptionDefinitionKey": "8f85f409-9819-44d7-bc07-feaac296b044",
+        "exceptionDefinitionName": "Bala_Electric_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "280",
+        "exceptionDefinitionKey": "a8451db2-2877-4d30-95bf-1469ed2066ff",
+        "exceptionDefinitionName": "priorityweight",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "281",
+        "exceptionDefinitionKey": "33119596-94c8-473f-8a6d-555f2c0cfa41",
+        "exceptionDefinitionName": "aspnetcoremvcapp",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "282",
+        "exceptionDefinitionKey": "68f7b8e0-f77c-419b-a2ca-253e1b9356f8",
+        "exceptionDefinitionName": "Bala_Automated-Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "283",
+        "exceptionDefinitionKey": "7091d0d5-4c1e-4702-bba3-53811667434a",
+        "exceptionDefinitionName": "testing",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "284",
+        "exceptionDefinitionKey": "cfa6a8f6-48f9-4fde-8895-7694f3e5cb96",
+        "exceptionDefinitionName": "Bala_Automated_Exception1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "285",
+        "exceptionDefinitionKey": "cff6f7ef-7816-4c35-b9b5-e407cf5b8426",
+        "exceptionDefinitionName": "ppp",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "286",
+        "exceptionDefinitionKey": "be6dd89a-72a5-46df-9df6-4b7e8150b9e2",
+        "exceptionDefinitionName": "Bala-Test-Manual-Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "287",
+        "exceptionDefinitionKey": "980a1c1a-9753-42b4-b4cb-3fcd1fe2774f",
+        "exceptionDefinitionName": "pioritytest",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "288",
+        "exceptionDefinitionKey": "e85737fc-237f-496a-9829-e03bb2e76ae7",
+        "exceptionDefinitionName": "14April_Automated_Gas_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "289",
+        "exceptionDefinitionKey": "debf5e3b-0c28-4f31-a16d-03f378ac5dfa",
+        "exceptionDefinitionName": "14April_Automated_Gas_No_Daily_Interrogations",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "290",
+        "exceptionDefinitionKey": "acd68a56-830b-4753-9450-81458978ebb6",
+        "exceptionDefinitionName": "14April_Automated_Gas_Endpoint_Reliablity_single",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "291",
+        "exceptionDefinitionKey": "aec7270b-2c9e-48ce-ac8f-4c632f6461dd",
+        "exceptionDefinitionName": "14April_Automated_Electric_No_Daily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "292",
+        "exceptionDefinitionKey": "27035ceb-9996-4913-998f-a942aad5db5a",
+        "exceptionDefinitionName": "14April_Automated_Electric_FinalResutCode_single",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "293",
+        "exceptionDefinitionKey": "4ba41f71-7618-48bb-9e43-2fb2ec3a86ac",
+        "exceptionDefinitionName": "14April_Automated_Electric_Endpoint_Relaiblity_single",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "294",
+        "exceptionDefinitionKey": "f41aa523-972d-43d7-9929-f7f59dc5c645",
+        "exceptionDefinitionName": "14April_Manual_SecondaryDevice",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "295",
+        "exceptionDefinitionKey": "712356ba-218d-413e-99d2-38de42488310",
+        "exceptionDefinitionName": "14April_Manual_Water",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "296",
+        "exceptionDefinitionKey": "d1276f63-03c7-4fa2-903f-4475b5c383a5",
+        "exceptionDefinitionName": "14April_Manual_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "297",
+        "exceptionDefinitionKey": "f530c1e0-66ce-4fd7-a2c9-c6f00360b169",
+        "exceptionDefinitionName": "14April_Manual_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "298",
+        "exceptionDefinitionKey": "62795b9d-2b78-47fc-aedd-20ec4dcd9d38",
+        "exceptionDefinitionName": "asa",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "299",
+        "exceptionDefinitionKey": "b50080bc-ae6b-4ca7-b511-e8433f85ee94",
+        "exceptionDefinitionName": "aspnetcoremvc",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "300",
+        "exceptionDefinitionKey": "726bdee0-3c1f-4dd9-a9bb-06827fe4fed4",
+        "exceptionDefinitionName": "13April_Gas_No_Daily_Interrogation_updated_value",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "301",
+        "exceptionDefinitionKey": "f3940921-e19b-4172-a6e1-bafa06ec8f38",
+        "exceptionDefinitionName": "13April_Electric_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "302",
+        "exceptionDefinitionKey": "6a43e004-b7bc-49b8-b15b-6cf1353a3c2d",
+        "exceptionDefinitionName": "Test Exception 13 April HG",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "303",
+        "exceptionDefinitionKey": "b0fc267d-2034-41b1-902c-66b4ba6e548c",
+        "exceptionDefinitionName": "12-apr-electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "304",
+        "exceptionDefinitionKey": "e8e4d59e-1509-47f2-997e-8b5507795402",
+        "exceptionDefinitionName": "Testcaseapril",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "305",
+        "exceptionDefinitionKey": "12dd6420-fe09-49f9-a258-4da215446c19",
+        "exceptionDefinitionName": "apap",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "306",
+        "exceptionDefinitionKey": "6cd9ac9e-c5ed-456f-97b5-0c0a90b85202",
+        "exceptionDefinitionName": "test2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "307",
+        "exceptionDefinitionKey": "32efe0e0-5c6d-4ad6-ac11-50b2081a23d1",
+        "exceptionDefinitionName": "ap413",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "308",
+        "exceptionDefinitionKey": "cfdbc7df-c8f6-4700-9cc9-05aa420b11ff",
+        "exceptionDefinitionName": "13April_Automated_Gas_Multiple_Excpetions",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "309",
+        "exceptionDefinitionKey": "8a9412f5-fcf6-400c-90ad-8371ff3c9ca0",
+        "exceptionDefinitionName": "test413",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "310",
+        "exceptionDefinitionKey": "89da8ddb-6413-485a-953f-2461a19f3b89",
+        "exceptionDefinitionName": "Test_Exception_Gas_Relaibility",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "311",
+        "exceptionDefinitionKey": "75c05794-8432-47d5-9987-ab1e3c553738",
+        "exceptionDefinitionName": "test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "312",
+        "exceptionDefinitionKey": "8bb2587e-785b-4693-b49f-6591b5e3761f",
+        "exceptionDefinitionName": "Bug #126474 Testing",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "313",
+        "exceptionDefinitionKey": "a85e551f-a074-45f8-ae58-d0c1e9b1f7cd",
+        "exceptionDefinitionName": "Gas_No_Interrogation_12April",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "314",
+        "exceptionDefinitionKey": "f28312e1-e27c-4662-8ebb-b937bf2e92f2",
+        "exceptionDefinitionName": "Test april 12 him12",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "315",
+        "exceptionDefinitionKey": "29e90111-787f-4bde-bc47-89b4a8a4674e",
+        "exceptionDefinitionName": "Test april 12 him1",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "316",
+        "exceptionDefinitionKey": "19e4e1ba-e102-455d-ad07-2c959747fcf5",
+        "exceptionDefinitionName": "Test_Him_12_April",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "317",
+        "exceptionDefinitionKey": "59039082-94bb-4999-8671-1a0680d552c9",
+        "exceptionDefinitionName": "Issue_Testing",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "318",
+        "exceptionDefinitionKey": "1db1b280-d992-4483-a6f0-56ed8865dea9",
+        "exceptionDefinitionName": "Testing automated exception type (Bug #136771)",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "319",
+        "exceptionDefinitionKey": "d1253ae5-ef9b-4ecd-af66-fae3c83a02f7",
+        "exceptionDefinitionName": "12April_ManualException_SecondaryDevice",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "320",
+        "exceptionDefinitionKey": "1b963b7d-aab1-4914-822d-476869677d82",
+        "exceptionDefinitionName": "12April_ManualException_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "321",
+        "exceptionDefinitionKey": "59bcdf2e-b7d3-41bc-a0ae-e3d551fa49c8",
+        "exceptionDefinitionName": "12April_ManualException_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "322",
+        "exceptionDefinitionKey": "1b3d9c83-8260-49bc-9026-f6bbdf3abb62",
+        "exceptionDefinitionName": "12April_Automated_Gas_Mulitple_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "323",
+        "exceptionDefinitionKey": "3f0dfc7c-1d5f-40ae-8d7c-ca601781fe60",
+        "exceptionDefinitionName": "TestException_QA",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "324",
+        "exceptionDefinitionKey": "bacad486-125e-4e26-9813-a085bc28d8a6",
+        "exceptionDefinitionName": "12April_Automated_Gas_No_Daily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "325",
+        "exceptionDefinitionKey": "0d7bad68-288e-4441-8775-27cc31b0c5ec",
+        "exceptionDefinitionName": "12April_Automated_Electric_No_Daily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "326",
+        "exceptionDefinitionKey": "01350aed-534c-4e73-8efb-155149ac9798",
+        "exceptionDefinitionName": "12April_Automated_Electric_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "327",
+        "exceptionDefinitionKey": "c5000863-f023-4941-b740-8e5544909cde",
+        "exceptionDefinitionName": "12April_Automated_Electric_Endpoint_All_Reliablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "328",
+        "exceptionDefinitionKey": "6038c4ac-56d2-4626-8761-da2073c6da3a",
+        "exceptionDefinitionName": "secondary device",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "329",
+        "exceptionDefinitionKey": "ece1724d-9188-4d39-b866-b87b477bd79d",
+        "exceptionDefinitionName": "Priorityweightex",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "330",
+        "exceptionDefinitionKey": "dde1d15a-5fc6-4e3f-b14c-cb6fb4cd7058",
+        "exceptionDefinitionName": "secondary device Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "331",
+        "exceptionDefinitionKey": "e3b7cdc0-b1e2-42ca-862d-2d594f7109c4",
+        "exceptionDefinitionName": "Checking that exception can be saved",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "332",
+        "exceptionDefinitionKey": "c63b49bd-e07f-4c33-b3c8-926631129821",
+        "exceptionDefinitionName": "10April_Multiple_Condtions_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "333",
+        "exceptionDefinitionKey": "c72efd86-5914-410e-9086-4430d237f2c9",
+        "exceptionDefinitionName": "11April_GAS_0% Reliablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "334",
+        "exceptionDefinitionKey": "e01c0129-0a35-4db7-b7fb-1cf3e04771fe",
+        "exceptionDefinitionName": "11April_Electric_Endpoint_Reliablity_1day",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "335",
+        "exceptionDefinitionKey": "aaadfc59-f715-41d2-bd74-29d34e3a0a69",
+        "exceptionDefinitionName": "11April_Gas_Final_Resut_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "336",
+        "exceptionDefinitionKey": "d795fdd5-1e62-4578-9b0c-3b56e5077a40",
+        "exceptionDefinitionName": "11April_Gas_No_Daily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "337",
+        "exceptionDefinitionKey": "c48cf942-95c9-4674-8219-8a6b4eca0501",
+        "exceptionDefinitionName": "11April_Gas_Endpoint_Reliablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "338",
+        "exceptionDefinitionKey": "cf82d87f-873c-4f94-a2d1-849f30a43220",
+        "exceptionDefinitionName": "11April_Electric_No_Daily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "339",
+        "exceptionDefinitionKey": "accf52f5-64e3-407a-9e21-b33b3e30b857",
+        "exceptionDefinitionName": "11April_Electric_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "340",
+        "exceptionDefinitionKey": "54104cd4-ee9d-4ac4-a3a6-5219be60c5ff",
+        "exceptionDefinitionName": "11April_Electric_Endpoint_Reliablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "341",
+        "exceptionDefinitionKey": "95517faa-73c8-4454-863e-49f68ab96354",
+        "exceptionDefinitionName": "11April_Secondary_Device",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "342",
+        "exceptionDefinitionKey": "e4046169-80a7-4d15-bc8a-150e854e0bf6",
+        "exceptionDefinitionName": "10April_Electric_Final_result",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "343",
+        "exceptionDefinitionKey": "6af57181-c632-49df-adf4-cf1c5e55f8a3",
+        "exceptionDefinitionName": "10April_electric_endpoint",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "344",
+        "exceptionDefinitionKey": "4cd3a35c-059a-4d50-9652-1b9e96d760c9",
+        "exceptionDefinitionName": "10April_All_Condtions_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "345",
+        "exceptionDefinitionKey": "ffde773d-64b3-49bd-b959-f589bbf212c5",
+        "exceptionDefinitionName": "10_April_Gas_Automated_Exception_No_Daily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "346",
+        "exceptionDefinitionKey": "b01321b5-1746-4bc1-9531-a95643fe01cb",
+        "exceptionDefinitionName": "10_April_Gas_Automated_Exception_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "347",
+        "exceptionDefinitionKey": "c918366a-cc65-4691-8bb1-5ebf5cbe22cb",
+        "exceptionDefinitionName": "10_April_Gas_Automated_Exception_Reliablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "348",
+        "exceptionDefinitionKey": "fec6cfa4-226c-4698-848e-c35ebe8970d3",
+        "exceptionDefinitionName": "10_April_Gas_Automated_Exception_AllCondtion",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "349",
+        "exceptionDefinitionKey": "a2610709-74c4-436b-9a7a-4bd63b5f2f79",
+        "exceptionDefinitionName": "10_April_Electric_Automated_Exception_AllCondtions",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "350",
+        "exceptionDefinitionKey": "f253d718-f52f-4977-9e00-950543730967",
+        "exceptionDefinitionName": "10_April_Electric_Automated_Exception_NoDailyInterrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "351",
+        "exceptionDefinitionKey": "f654e250-fefb-4281-b1a5-f5a492f7480f",
+        "exceptionDefinitionName": "10_April_Electric_Automated_Exception_FinalResultCode",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "352",
+        "exceptionDefinitionKey": "bb502329-3495-47ab-b4bc-d6d2867be7f9",
+        "exceptionDefinitionName": "10_April_Electric_Automated_Exception_Reliablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "353",
+        "exceptionDefinitionKey": "cc5e9073-ce61-4342-a1d7-8d305364803e",
+        "exceptionDefinitionName": "10_April_Electric_Automated_Exception_All_Condition",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "354",
+        "exceptionDefinitionKey": "6620b76b-d9c2-4651-92e0-f091c82f2f33",
+        "exceptionDefinitionName": "10_April_Secondary_Device_Manual_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "355",
+        "exceptionDefinitionKey": "b9f5f6df-219b-48a5-b1f1-6610f6a7cfe1",
+        "exceptionDefinitionName": "10_April_Gas_Manual_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "356",
+        "exceptionDefinitionKey": "e0bc78df-be2a-4150-98b6-23d1dacdf0b1",
+        "exceptionDefinitionName": "10_April_Electric_Manual_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "357",
+        "exceptionDefinitionKey": "08ba204a-6049-4509-a16b-e1d72e7e23b0",
+        "exceptionDefinitionName": "Test_Valid_Value_NoDaily_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "358",
+        "exceptionDefinitionKey": "14a66c3f-f677-4623-a329-ece8bdfb88a4",
+        "exceptionDefinitionName": "Internal Test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "359",
+        "exceptionDefinitionKey": "372d4859-1f9c-4ee9-9b15-bb95046e7d30",
+        "exceptionDefinitionName": "Electric_Exception_Edit",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "360",
+        "exceptionDefinitionKey": "3a43dcbe-073f-463b-8f68-c6c07bea6128",
+        "exceptionDefinitionName": "Gas_Exception_Test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "361",
+        "exceptionDefinitionKey": "04f00997-e5b9-458e-883d-3bf8d2b70786",
+        "exceptionDefinitionName": "SHIb_Automated_exception_Eletric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "362",
+        "exceptionDefinitionKey": "9e251e01-ac01-4e72-ac1e-96678123c3f9",
+        "exceptionDefinitionName": "SHIB_Electric_Manual_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "363",
+        "exceptionDefinitionKey": "3a3bceb4-a9ea-42bd-807f-e85693205dd0",
+        "exceptionDefinitionName": "6_April_Electric_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "364",
+        "exceptionDefinitionKey": "f1ae4c62-d724-483b-9e5b-9e3bda8d0c48",
+        "exceptionDefinitionName": "6April_Gas_added_first_time_EDITED_Third_Time",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "365",
+        "exceptionDefinitionKey": "3f4cc75b-e946-4564-8735-73ce8e72b1c6",
+        "exceptionDefinitionName": "4_Gas_added_first_time",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "366",
+        "exceptionDefinitionKey": "034173ec-92bf-49fd-a021-3e4ec39266ca",
+        "exceptionDefinitionName": "6_April_Manual_Exception_Electric_Updated",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "367",
+        "exceptionDefinitionKey": "48806de7-f484-4ed6-b4e6-ab3611865670",
+        "exceptionDefinitionName": "5April_SecondaryDevice",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "368",
+        "exceptionDefinitionKey": "4cafb322-5fb9-402f-95ce-1bab575d7465",
+        "exceptionDefinitionName": "4_April_Automatic_Electric_Multiple_Reliablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "369",
+        "exceptionDefinitionKey": "54a784b9-7b6e-46ca-a722-0ff82cbf048d",
+        "exceptionDefinitionName": "4_April_Electric_Final_Result_Code",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "370",
+        "exceptionDefinitionKey": "d3425186-32d9-4fad-a943-3dc0cbf0439e",
+        "exceptionDefinitionName": "4_April_Gas_No_Daily_Interrogations",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "371",
+        "exceptionDefinitionKey": "2b3ea28f-7395-4234-b3a8-b0ee0d6912a0",
+        "exceptionDefinitionName": "4_April_Gas_Endpoint_No_Daily_interrogations",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "372",
+        "exceptionDefinitionKey": "824aa3f4-938e-47af-85f3-ef7cd40cb438",
+        "exceptionDefinitionName": "4_April_Automatic_Electric_30_day_Relaiblity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "373",
+        "exceptionDefinitionKey": "33cb7556-268b-49c0-94a2-38917ccf5e15",
+        "exceptionDefinitionName": "Secondary_Device_5april2017",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "374",
+        "exceptionDefinitionKey": "477f319a-e8d1-4943-b340-9f8001a405eb",
+        "exceptionDefinitionName": "Secondary_Device_5April",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "375",
+        "exceptionDefinitionKey": "c5bdaf50-bb4e-4759-b0c6-940dfcb8f417",
+        "exceptionDefinitionName": "Manual_Exception_5_Arpil",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "376",
+        "exceptionDefinitionKey": "cc93106d-0af2-4f6a-a982-aac0c794d1b4",
+        "exceptionDefinitionName": "Electric Final Result Code 27March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "377",
+        "exceptionDefinitionKey": "f49a4e31-f7df-4169-8c67-8164516211d4",
+        "exceptionDefinitionName": "4april_Manual_Exception_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "378",
+        "exceptionDefinitionKey": "07c45acb-6613-4b04-8ea0-a909d8683494",
+        "exceptionDefinitionName": "4April_Manual_Exception_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "379",
+        "exceptionDefinitionKey": "74541c84-5bda-4105-807b-d7b20711caaa",
+        "exceptionDefinitionName": "4 April _Electric_1_day_Reliablity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "380",
+        "exceptionDefinitionKey": "95072ab5-1b77-40d0-b2a0-9788035de907",
+        "exceptionDefinitionName": "Again Manual Exception 27 march",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "381",
+        "exceptionDefinitionKey": "6337d080-7a2c-42a9-8db1-de49744fdc8e",
+        "exceptionDefinitionName": "Gas Endpoint Reliability 0% 28 March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "382",
+        "exceptionDefinitionKey": "e617adc9-6bca-41c2-91a0-58ce70956afe",
+        "exceptionDefinitionName": "No Daily Interrogation 30 March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "383",
+        "exceptionDefinitionKey": "cbebad28-2d4a-4ef4-9a28-c4bc848f74c5",
+        "exceptionDefinitionName": "Gas No Interrogation 31March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "384",
+        "exceptionDefinitionKey": "8a761096-8206-47b2-9733-82c19bdbbd80",
+        "exceptionDefinitionName": "Final Result Code 31March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "385",
+        "exceptionDefinitionKey": "9742723c-feaf-47e9-902a-86f641afc746",
+        "exceptionDefinitionName": "Electric Endpoint Relaiblity 1Day",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "386",
+        "exceptionDefinitionKey": "7d750014-7f33-47d1-bfb4-ad5bf0d4785e",
+        "exceptionDefinitionName": "Electric Endpoint Relaiblity",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "387",
+        "exceptionDefinitionKey": "f79cac9d-866d-4b66-9ae7-de32ec7e9139",
+        "exceptionDefinitionName": "Gas Multiple Conditions",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "388",
+        "exceptionDefinitionKey": "3b580e13-e024-4e35-b126-7fedcef45960",
+        "exceptionDefinitionName": "3 April Gas Endpoint Reliablity Interrogation Condtions satisfy",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "389",
+        "exceptionDefinitionKey": "0d87ed43-73d3-4d1e-9762-6b78ef5a472f",
+        "exceptionDefinitionName": "3 April Gas Endpoint Reliablity Interrogation Condtions not satisfy",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "390",
+        "exceptionDefinitionKey": "9de76c89-8995-4375-baee-793ccca9b0f4",
+        "exceptionDefinitionName": "3 April Multiple Endpoints some not satisfy",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "391",
+        "exceptionDefinitionKey": "3383e895-13a1-4dee-a0c3-33177d4743ca",
+        "exceptionDefinitionName": "3 April Multiple EndpointsRel all satisfy",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "392",
+        "exceptionDefinitionKey": "5413516a-9248-41fb-851b-e98db3426795",
+        "exceptionDefinitionName": "SP-E manual all-params",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "393",
+        "exceptionDefinitionKey": "b9cfce7f-fe43-40ae-b9e5-b76db216a0f8",
+        "exceptionDefinitionName": "Secondary Device_28 March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "394",
+        "exceptionDefinitionKey": "dad6c1b7-e5b3-49ea-862f-39c7a9362c63",
+        "exceptionDefinitionName": "Manual Test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "395",
+        "exceptionDefinitionKey": "7e9e3c77-8807-4c82-9192-bf6940bacb87",
+        "exceptionDefinitionName": "Manual_Exception_Secondary_27March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "396",
+        "exceptionDefinitionKey": "05cf1792-4f8b-4202-8d7c-b5674e439590",
+        "exceptionDefinitionName": "Manual_Exception_Gas1_27March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "397",
+        "exceptionDefinitionKey": "abd6198b-fc16-4e01-a10d-538103143f09",
+        "exceptionDefinitionName": "Manual_Exception_Water_27March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "398",
+        "exceptionDefinitionKey": "e2e1f198-6fcd-42b4-b87e-35ec0c1ff3c8",
+        "exceptionDefinitionName": "Manual_Exception_Electric_27March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "399",
+        "exceptionDefinitionKey": "ae203a0b-9699-4b4e-86c6-e6b6e279339f",
+        "exceptionDefinitionName": "Gas_No_Interrogation_27_march",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "400",
+        "exceptionDefinitionKey": "2226be06-c5fc-47be-8754-259250d53d4f",
+        "exceptionDefinitionName": "Electric_Final_Result_Code_24March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "401",
+        "exceptionDefinitionKey": "6cfcb1c8-6015-4077-8770-17e4d34fc973",
+        "exceptionDefinitionName": "Gas_No_Interrogation_24_march",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "402",
+        "exceptionDefinitionKey": "22c1e851-8c88-4f89-8fde-2c081a206507",
+        "exceptionDefinitionName": "ManQA30essthan100",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "403",
+        "exceptionDefinitionKey": "c8867a30-9ff2-444b-8afe-3e2e79a99912",
+        "exceptionDefinitionName": "Manual_Gas_Exception_22March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "404",
+        "exceptionDefinitionKey": "b08a9909-a4a9-44d4-8c6c-869ac3cec71e",
+        "exceptionDefinitionName": "Manual_Exception_22_March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "405",
+        "exceptionDefinitionKey": "b82ed680-8e3f-4cd4-8e8e-98a36a5f6a81",
+        "exceptionDefinitionName": "Gas_1_day_Reliablity_22March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "406",
+        "exceptionDefinitionKey": "fe632939-051d-4a16-8e2e-9ec3bdf1f1f3",
+        "exceptionDefinitionName": "Electric_1_day_Reliablity_22March",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "407",
+        "exceptionDefinitionKey": "8eeb79e1-1e82-485e-9057-1ea25c359685",
+        "exceptionDefinitionName": "Gas_No_Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "408",
+        "exceptionDefinitionKey": "b839c20f-4117-48ba-b6db-4a214409705e",
+        "exceptionDefinitionName": "TestManualException",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "409",
+        "exceptionDefinitionKey": "184c52ab-a19a-4cbb-ab87-0297c03696d7",
+        "exceptionDefinitionName": "Multiple Condition Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "410",
+        "exceptionDefinitionKey": "06b0a481-8824-4e95-a47a-66b33c05e084",
+        "exceptionDefinitionName": "Manual Exception 2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "411",
+        "exceptionDefinitionKey": "0d16a0db-6ae3-4d92-b10c-c4178e28e99c",
+        "exceptionDefinitionName": "Automated Exception 2",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "412",
+        "exceptionDefinitionKey": "45dbfd8e-8e50-4d03-99fc-f9a630049401",
+        "exceptionDefinitionName": "Automated_30_day_Reliablity_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "413",
+        "exceptionDefinitionKey": "aad43620-2def-4434-a19d-04d10db905d4",
+        "exceptionDefinitionName": "Automated_7_day_Reliablity_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "414",
+        "exceptionDefinitionKey": "2e9bea24-f587-4cc8-8408-9465062aa21d",
+        "exceptionDefinitionName": "Automated_3_day_Reliablity_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "415",
+        "exceptionDefinitionKey": "6886a313-396f-42a6-beed-995bbede6d19",
+        "exceptionDefinitionName": "Automated_1_day_Reliablity_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "416",
+        "exceptionDefinitionKey": "57d395dc-8ded-46a1-8846-8edaabfd3040",
+        "exceptionDefinitionName": "Automated Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "417",
+        "exceptionDefinitionKey": "9ff85883-3c97-4ee1-8dfa-b0a7119d2ee3",
+        "exceptionDefinitionName": "Manual Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "418",
+        "exceptionDefinitionKey": "c5cf46ce-b114-4e64-a5f3-5e5d19e7887d",
+        "exceptionDefinitionName": "Test Exception QA",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "419",
+        "exceptionDefinitionKey": "96d38c34-ecf1-481b-a0da-5edbc1807441",
+        "exceptionDefinitionName": "Automated_30_day_Reliablity_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "420",
+        "exceptionDefinitionKey": "2df6bf10-26c3-48f4-a96c-0c0c01153676",
+        "exceptionDefinitionName": "Automated_7_day_Reliablity_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "421",
+        "exceptionDefinitionKey": "2ab833d1-3974-454c-8574-31dba95b4b9f",
+        "exceptionDefinitionName": "Automated_3_day_Reliablity_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "422",
+        "exceptionDefinitionKey": "fa0409f1-f051-4a80-aa8f-13bd628b6db9",
+        "exceptionDefinitionName": "Automated_1_day_Reliablity_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "423",
+        "exceptionDefinitionKey": "5bc6286e-82b7-4eb7-8189-ea9f4c35a2a8",
+        "exceptionDefinitionName": "Manual_Excecption_Secondary_Device",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "424",
+        "exceptionDefinitionKey": "29f64e28-8df3-4128-9f1b-2d4c6cebbf66",
+        "exceptionDefinitionName": "Manual_Excecption_Water",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "425",
+        "exceptionDefinitionKey": "0d6c6c28-d004-4dbd-a1fa-d1c3c4d82561",
+        "exceptionDefinitionName": "Manual_Exception_Gas",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "426",
+        "exceptionDefinitionKey": "91239163-c3be-48d6-af02-7ecab9cdbfea",
+        "exceptionDefinitionName": "Manual_Exception_Electric",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "427",
+        "exceptionDefinitionKey": "ce32449c-97f5-4798-a075-82ebedd6e6d2",
+        "exceptionDefinitionName": "Electric_No_Daily_Interrogation_Test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "428",
+        "exceptionDefinitionKey": "6660ab38-6f89-49d1-a1da-55692e224e1c",
+        "exceptionDefinitionName": "Electric_ Final Result Code Test",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "429",
+        "exceptionDefinitionKey": "d3722771-d5b8-4597-8d36-8fad32a31649",
+        "exceptionDefinitionName": "Electric_7_day_Reliability",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "430",
+        "exceptionDefinitionKey": "fea7c5c5-8759-443d-a44d-33691148eb59",
+        "exceptionDefinitionName": "ExceptionType",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "431",
+        "exceptionDefinitionKey": "02dc40d1-379e-40b6-b453-79827b5a9834",
+        "exceptionDefinitionName": "Electric_30_day_Reliability",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "432",
+        "exceptionDefinitionKey": "8a3c68c6-3c9a-432a-ad19-4051687212f7",
+        "exceptionDefinitionName": "Secondary Device_Exception",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "433",
+        "exceptionDefinitionKey": "33fbe6e6-2a31-4ff4-9422-397006d70641",
+        "exceptionDefinitionName": "Gas 1 day Reliability = 0%",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "434",
+        "exceptionDefinitionKey": "d79d7a9f-17e5-4007-bea2-053c9e65d3ab",
+        "exceptionDefinitionName": "Electric1 day Reliability greater than 50%",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "435",
+        "exceptionDefinitionKey": "85d8974d-5694-437e-be03-57248bf12214",
+        "exceptionDefinitionName": "Gas_No Daily Interrogation",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    },
+    {
+        "$id": "436",
+        "exceptionDefinitionKey": "0e9dd1d3-5105-45f2-bef4-f8069049d061",
+        "exceptionDefinitionName": "TestExceptionSPE",
+        "workflowDefinitionId": "00000000-0000-0000-0000-000000000000",
+        "workflowDefinitionName": "",
+        "createdOn": "0001-01-01T00:00:00"
+    }
+]
